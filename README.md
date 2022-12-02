@@ -1,6 +1,4 @@
-# new-card-for-readme
-new card for christmas readme
-<br>
+
 <!DOCTYPE html>
 <html lang="en">
 
